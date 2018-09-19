@@ -1,6 +1,15 @@
 h1 {
-color: red;
+color: black;
 }
-.body {
-url: ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshlhnsrvxyyodYKiTdxloruRj4ThaGRFITfql0d8z5dKvINPzxQ")
+
+p{
+  color: black;
 }
+
+body {
+background-image:url("./images/minnie.jpg");
+}
+
+.navbar li {
+  color: black;
+  display: inline-block;

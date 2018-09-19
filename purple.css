@@ -1,3 +1,28 @@
 h1{
-color: purple
+color: black
+}
+body{
+  background-image:url("./images/aestetic.jpg")
+}
+
+.navbar li {
+  color: white;
+  display: inline-block;
+
+}
+p{
+  color: white
+}
+
+.container{
+
+}
+
+.navbar{
+  background-image:url("./images/cute.jpg")
+}
+
+.pic{
+  border: 20px;
+  border-color: white;
 }
